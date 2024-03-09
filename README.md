@@ -7,6 +7,6 @@ Created in concern of privacy issues with uploading files to online sites.
 
 ## Convert `.txt` to `.csv` file
 
-Download file `txt_to_csv,py` and run. 
+Download file `txt_to_csv.py` and run. 
 
-Read txt file; split on `space``' '`; write to a csv file. 
+Read txt file, split on `space` `' '`, and write to a csv file. 
